@@ -42,10 +42,10 @@ info@corp.jp.com
 株式会社豊田自動織機　career-recruiting@mm.toyota-shokki.co.jp
 
 パターン6-2
-トヨタ自動車株式会社　test_02@osaka-toyota.jp
+トヨタ自動車株式会社　yamada_02@osaka-toyota.jp
 
 パターン6-3
-株式会社ジェイテクト　test_03@jtekt.co.jp
+株式会社ジェイテクト　yamada_03@jtekt.co.jp
 
 パターン6-4
 愛知製鋼株式会社　sa-jinji-saiyou@he.aichi-steel.co.jp
@@ -57,7 +57,7 @@ info@corp.jp.com
 トヨタ自動車東日本株式会社 career_06@qrze.toyota-ej.co.jp
 
 パターン6-7
-トヨタシステムズ test_07@mx.toyotasystems.com
+トヨタシステムズ yamada_07@mx.toyotasystems.com
 
 パターン6-8
 トヨタコネクティッド recruiting_08@ie.toyotaconnected.co.jp
