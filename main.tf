@@ -39,25 +39,28 @@ taro.yamada@mail.jp.com
 info@corp.jp.com
 
 パターン6
-株式会社豊田自動織機　test_01@toyota-shokki.co.jp
+株式会社豊田自動織機　career-recruiting@mm.toyota-shokki.co.jp
 
 パターン6-2
-トヨタ自動車株式会社　test_02@aaa.toyota.co.jp
+トヨタ自動車株式会社　test_02@osaka-toyota.jp
 
 パターン6-3
 株式会社ジェイテクト　test_03@jtekt.co.jp
 
 パターン6-4
-愛知製鋼株式会社　test_04@xe.aichi-steel.co.jp
+愛知製鋼株式会社　sa-jinji-saiyou@he.aichi-steel.co.jp
 
 パターン6-5
-トヨタ車体株式会社　test_05@toyota-body.co.jp
+トヨタ車体株式会社　test_05@mail.toyota-body.co.jp
 
 パターン6-6
 トヨタ自動車東日本株式会社 test_06@qrze.toyota-ej.co.jp
 
 パターン6-7
 トヨタシステムズ test_07@mx.toyotasystems.com
+
+パターン6-8
+トヨタコネクティッド test_08@mail.toyotaconnected.co.jp
 
 
 3.収入・資産情報
