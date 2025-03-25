@@ -51,7 +51,7 @@ info@corp.jp.com
 愛知製鋼株式会社　sa-jinji-saiyou@he.aichi-steel.co.jp
 
 パターン6-5
-トヨタ車体株式会社　test_05@mail.toyota-body.co.jp
+トヨタ車体株式会社　test_05@ma.toyota-body.co.jp
 
 パターン6-6
 トヨタ自動車東日本株式会社 test_06@qrze.toyota-ej.co.jp
@@ -60,7 +60,7 @@ info@corp.jp.com
 トヨタシステムズ test_07@mx.toyotasystems.com
 
 パターン6-8
-トヨタコネクティッド test_08@mail.toyotaconnected.co.jp
+トヨタコネクティッド test_08@ie.toyotaconnected.co.jp
 
 
 3.収入・資産情報
