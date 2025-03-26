@@ -44,7 +44,7 @@ info@corp.jp.com
 株式会社豊田自動織機　career-recruiting@mm.toyota-shokki.co.jp
 
 パターン6-2
-トヨタ自動車株式会社　yamada_02@osaka-toyota.jp
+トヨタ自動車株式会社　suzuki@xxx.xxx.toyota.jp
 
 パターン6-3
 株式会社ジェイテクト　yamada_03@jtekt.co.jp
