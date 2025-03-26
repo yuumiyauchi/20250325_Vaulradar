@@ -59,7 +59,7 @@ info@corp.jp.com
 トヨタ自動車東日本株式会社 career_06@qrze.toyota-ej.co.jp
 
 パターン6-7
-トヨタシステムズ yamada_07@mx.toyotasystems.com
+トヨタシステムズ yamada_07@xxx-toyotasystems.com
 
 パターン6-8
 トヨタコネクティッド recruiting_08@ie.toyotaconnected.co.jp
